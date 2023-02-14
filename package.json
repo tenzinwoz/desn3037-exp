@@ -1,0 +1,23 @@
+{
+  "name": "desn3037-exp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenzinwoz/desn3037-exp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tenzinwoz/desn3037-exp/issues"
+  },
+  "homepage": "https://github.com/tenzinwoz/desn3037-exp#readme",
+  "dependencies": {
+    "webcomponent-qr-code": "^1.1.1"
+  }
+}
